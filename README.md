@@ -22,7 +22,7 @@ Open `index.html` in a browser, or serve this folder with any static file server
 
 ## Microsoft Clarity
 
-Each HTML page contains `window.CLARITY_PROJECT_ID='YOUR_CLARITY_PROJECT_ID'` as the single documented replacement point. Replace the placeholder with the project ID from Microsoft Clarity, then add the official Clarity tracking snippet supplied by Microsoft immediately after it on all three pages. Do not fabricate analytics events; normal navigation, clicks, scrolling, cart actions, and form interactions remain observable through Clarity.
+The supplied Microsoft Clarity tracking snippet is already installed on all three HTML pages using project ID `zena3ykt2j`. Do not fabricate analytics events; normal navigation, clicks, scrolling, cart actions, and form interactions remain observable through Clarity.
 
 ## GitHub Pages
 
